@@ -23,19 +23,6 @@ namespace WebApplication1.Controllers
             _product = mongoDbService.GetDatabase.GetCollection<Product>("Product");
         }
 
-        [HttpGet]
-        public async Task<ActionResult<List<Order>>> Get()
-        {
-            try
-            {
-                var orders = await _order.Find(FilterDefinition<Order>.Empty).ToListAsync();
-                return Ok(orders);
-            }
-            catch (Exception e)
-            {
-                return BadRequest(e.Message);
-            }
-        }
 
         [HttpPost]
         public async Task<ActionResult<Order>> Post(OrderViewModel orderViewModel)
@@ -73,22 +60,6 @@ namespace WebApplication1.Controllers
             }
         }
 
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Order>> GetById(string id)
-        {
-            try
-            {
-                var order = await _order.Find(x => x.Id == id).FirstOrDefaultAsync();
-
-                //var filter = Builders<Order>.Filter.Eq(x.Id, id);
-
-                return order is not null ? Ok(order) : NotFound();
-            }
-            catch (Exception e)
-            {
-                return BadRequest(e.Message);
-            }
-        }
 
         [HttpPut]
         public async Task<ActionResult> Update(Order o)
@@ -134,6 +105,44 @@ namespace WebApplication1.Controllers
             {
                 return BadRequest();
             }
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<List<Order>>> Get()
+        {
+            try
+            {
+                var orders = await _order.Find(FilterDefinition<Order>.Empty).ToListAsync();
+
+                return Ok(orders);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+
+        }
+
+        [HttpGet("id")]
+        public async Task<ActionResult<Order>> GetById(string id)
+        {
+            try
+            {
+                var order = await _order.Find(x => x.Id == id).FirstOrDefaultAsync();
+
+                if (order == null)
+                {
+                    return NotFound();
+                }
+
+                return Ok(order);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
         }
     }
 }

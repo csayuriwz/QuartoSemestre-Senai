@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtH7gFIVu3fGUJbVgpDmXHq1ndiyXmfxdC5nePmeW3DpHUYVOjBmXMouAwh16KYr6U13dRmMsPINKe7g0suW+Q==",
+  "dgSpecHash": "ZCrHxKQ9uXSjTaSm2iFSzGfAN96bK0DSnU7/rSllQ5sZNKrfBwmBTt5Y2P1blea841uaf8+JYlxcQKemaUKi3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\API\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\QuartoSemestre-Senai\\AtividadesMongoDB\\API-basica\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\40666090823\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\40666090823\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
