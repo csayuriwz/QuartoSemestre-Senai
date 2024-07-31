@@ -39,9 +39,9 @@ namespace WebApplication1.Controllers
                 newOrder.ProductId = orderViewModel.ProductId;
                 newOrder.ClientId = orderViewModel.ClientId;
 
-                var client = await _client.Find(x => x.Id == newOrder.ClientId).FirstOrDefaultAsync();
+                Client client = await _client.Find(x => x.Id == newOrder.ClientId).FirstOrDefaultAsync();
 
-                if (client != null)
+                if (client == null)
                 {
                     return NotFound("O cliente nao existe!");
                 }
@@ -113,6 +113,22 @@ namespace WebApplication1.Controllers
             try
             {
                 var orders = await _order.Find(FilterDefinition<Order>.Empty).ToListAsync();
+
+                foreach (var order in orders)
+                {
+                    if (order.ProductId != null)
+                    {
+                        var filter = Builders<Product>.Filter.In(p => p.Id, order.ProductId);
+
+                        order.Products = await _product.Find(filter).ToListAsync();
+                    }
+
+                    if (order.ClientId != null)
+                    {
+                        order.Client = await _client.Find(x => x.Id == order.ClientId).FirstOrDefaultAsync();
+                    }
+                }
+
 
                 return Ok(orders);
             }
