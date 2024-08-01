@@ -1,0 +1,15 @@
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\bin\Debug\net8.0\Livros.exe
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\bin\Debug\net8.0\Livros.deps.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\bin\Debug\net8.0\Livros.runtimeconfig.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\bin\Debug\net8.0\Livros.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\bin\Debug\net8.0\Livros.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.AssemblyInfoInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.AssemblyInfo.cs
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.sourcelink.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\refint\Livros.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\Livros.genruntimeconfig.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\GerenciarLivros\Livros\obj\Debug\net8.0\ref\Livros.dll

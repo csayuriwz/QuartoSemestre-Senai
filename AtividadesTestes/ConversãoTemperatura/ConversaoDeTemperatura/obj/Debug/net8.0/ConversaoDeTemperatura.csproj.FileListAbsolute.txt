@@ -1,0 +1,15 @@
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.exe
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.deps.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.runtimeconfig.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.AssemblyInfo.cs
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.sourcelink.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\refint\ConversaoDeTemperatura.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.genruntimeconfig.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesTestes\ConversãoTemperatura\ConversaoDeTemperatura\obj\Debug\net8.0\ref\ConversaoDeTemperatura.dll
