@@ -1,0 +1,14 @@
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\bin\Debug\net8.0\validate-email.exe
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\bin\Debug\net8.0\validate-email.deps.json
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\bin\Debug\net8.0\validate-email.runtimeconfig.json
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\bin\Debug\net8.0\validate-email.dll
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\bin\Debug\net8.0\validate-email.pdb
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\validate-email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\validate-email.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\validate-email.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\validate-email.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\validate-email.dll
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\refint\validate-email.dll
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\validate-email.pdb
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\validate-email.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\unit_test\exercises\email\validate-email\obj\Debug\net8.0\ref\validate-email.dll
