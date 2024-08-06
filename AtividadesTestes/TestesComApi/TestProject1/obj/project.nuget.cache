@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LOIpFZ2ycPA8QVkaS6KCTnRtSFTjDq/uzHMmeFkGwfKAv+lFULKsweKX5fGloeXHzywEvH0h9iaRn6cdNnfGqA==",
+  "dgSpecHash": "1ghYkrYIqcqw2Amf/AtUMO46AwuYsdQAXMB4PCAnjiTYA9sP/K+cticB7G30nx2jZEIn9sf+4IOMmbyl+fwoKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\senai-4-semestre\\Sprint-de-testes\\TestesComApi\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\QuartoSemestre-Senai\\AtividadesTestes\\TestesComApi\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\40666090823\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\40666090823\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

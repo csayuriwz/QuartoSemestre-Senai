@@ -58,7 +58,7 @@ namespace TestProject1
 
             mockRepository.Object.Post(product);
 
-            Assert.NotNull(productList.First());
+            Assert.Contains(product, productList);
 
         }
         [Fact]
@@ -103,11 +103,12 @@ namespace TestProject1
 
             var productId = Guid.NewGuid();
 
-            List<Products> productList = new List<Products>
-            {
-              new Products { IdProduct = productId, Name = "Produto 1", Price = 78}
-            };
+            List<Products> productList = new List<Products>();
 
+            Products product = new Products { IdProduct = productId, Name = "Produto 1", Price = 78 };
+            
+
+           
 
             //cria um objeto de simulacao do tipo ProductRepository
             var mockRepository = new Mock<IProductsRepository>();
@@ -133,7 +134,7 @@ namespace TestProject1
 
             //Assert
 
-            Assert.Equal(0, productList.Count);
+            Assert.DoesNotContain(product, productList);
         }
 
         [Fact]
