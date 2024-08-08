@@ -1,0 +1,15 @@
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\bin\Debug\net8.0\LogicaBasica-DoWhile.exe
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\bin\Debug\net8.0\LogicaBasica-DoWhile.deps.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\bin\Debug\net8.0\LogicaBasica-DoWhile.runtimeconfig.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\bin\Debug\net8.0\LogicaBasica-DoWhile.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\bin\Debug\net8.0\LogicaBasica-DoWhile.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.AssemblyInfoInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.AssemblyInfo.cs
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.sourcelink.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\refint\LogicaBasica-DoWhile.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\LogicaBasica-DoWhile.genruntimeconfig.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-DoWhile\obj\Debug\net8.0\ref\LogicaBasica-DoWhile.dll

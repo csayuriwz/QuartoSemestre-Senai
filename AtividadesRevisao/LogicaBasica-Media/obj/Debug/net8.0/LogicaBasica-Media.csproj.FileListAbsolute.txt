@@ -1,0 +1,15 @@
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.AssemblyInfoInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.AssemblyInfo.cs
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.csproj.CoreCompileInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.sourcelink.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\bin\Debug\net8.0\LogicaBasica-Media.exe
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\bin\Debug\net8.0\LogicaBasica-Media.deps.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\bin\Debug\net8.0\LogicaBasica-Media.runtimeconfig.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\bin\Debug\net8.0\LogicaBasica-Media.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\bin\Debug\net8.0\LogicaBasica-Media.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\refint\LogicaBasica-Media.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\LogicaBasica-Media.genruntimeconfig.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Media\obj\Debug\net8.0\ref\LogicaBasica-Media.dll

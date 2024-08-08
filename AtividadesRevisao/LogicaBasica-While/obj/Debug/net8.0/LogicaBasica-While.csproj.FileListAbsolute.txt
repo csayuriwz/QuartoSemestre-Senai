@@ -1,0 +1,15 @@
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\bin\Debug\net8.0\LogicaBasica-While.exe
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\bin\Debug\net8.0\LogicaBasica-While.deps.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\bin\Debug\net8.0\LogicaBasica-While.runtimeconfig.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\bin\Debug\net8.0\LogicaBasica-While.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\bin\Debug\net8.0\LogicaBasica-While.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.AssemblyInfoInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.AssemblyInfo.cs
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.csproj.CoreCompileInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.sourcelink.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\refint\LogicaBasica-While.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\LogicaBasica-While.genruntimeconfig.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-While\obj\Debug\net8.0\ref\LogicaBasica-While.dll

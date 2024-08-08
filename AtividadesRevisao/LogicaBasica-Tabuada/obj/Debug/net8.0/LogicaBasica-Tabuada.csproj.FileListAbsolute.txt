@@ -1,0 +1,15 @@
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.AssemblyInfoInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.AssemblyInfo.cs
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.sourcelink.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\bin\Debug\net8.0\LogicaBasica-Tabuada.exe
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\bin\Debug\net8.0\LogicaBasica-Tabuada.deps.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\bin\Debug\net8.0\LogicaBasica-Tabuada.runtimeconfig.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\bin\Debug\net8.0\LogicaBasica-Tabuada.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\bin\Debug\net8.0\LogicaBasica-Tabuada.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\refint\LogicaBasica-Tabuada.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\LogicaBasica-Tabuada.genruntimeconfig.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-Tabuada\obj\Debug\net8.0\ref\LogicaBasica-Tabuada.dll
