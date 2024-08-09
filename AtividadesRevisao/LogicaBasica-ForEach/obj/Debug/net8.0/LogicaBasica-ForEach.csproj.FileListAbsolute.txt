@@ -1,0 +1,15 @@
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\bin\Debug\net8.0\LogicaBasica-ForEach.exe
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\bin\Debug\net8.0\LogicaBasica-ForEach.deps.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\bin\Debug\net8.0\LogicaBasica-ForEach.runtimeconfig.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\bin\Debug\net8.0\LogicaBasica-ForEach.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\bin\Debug\net8.0\LogicaBasica-ForEach.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.AssemblyInfoInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.AssemblyInfo.cs
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.sourcelink.json
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\refint\LogicaBasica-ForEach.dll
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.pdb
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\LogicaBasica-ForEach.genruntimeconfig.cache
+C:\Users\40666090823\Desktop\QuartoSemestre-Senai\AtividadesRevisao\LogicaBasica-ForEach\obj\Debug\net8.0\ref\LogicaBasica-ForEach.dll
