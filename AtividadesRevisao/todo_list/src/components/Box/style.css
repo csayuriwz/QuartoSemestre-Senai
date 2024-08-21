@@ -1,0 +1,10 @@
+.todolist-box__box{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E123B;
+    /* border: 2px solid red; */
+    margin-bottom: 280px;
+}
