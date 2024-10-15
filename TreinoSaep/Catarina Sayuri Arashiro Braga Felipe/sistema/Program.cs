@@ -10,11 +10,16 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<SistemaContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+//start session
+builder.Services.AddDistributedMemoryCache();
 
-
-
-
-
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromHours(1);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+//end session
 
 
 var app = builder.Build();
@@ -39,6 +44,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Login}/{action=Index}/{id?}");
 
 app.Run();

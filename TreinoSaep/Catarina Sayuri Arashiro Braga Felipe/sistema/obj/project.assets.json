@@ -4046,11 +4046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\40666090823\\Desktop\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\sistema.csproj",
+      "projectUniqueName": "C:\\Users\\40666090823\\Desktop\\QuartoSemestre-Senai\\TreinoSaep\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\sistema.csproj",
       "projectName": "sistema",
-      "projectPath": "C:\\Users\\40666090823\\Desktop\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\sistema.csproj",
+      "projectPath": "C:\\Users\\40666090823\\Desktop\\QuartoSemestre-Senai\\TreinoSaep\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\sistema.csproj",
       "packagesPath": "C:\\Users\\40666090823\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\40666090823\\Desktop\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\obj\\",
+      "outputPath": "C:\\Users\\40666090823\\Desktop\\QuartoSemestre-Senai\\TreinoSaep\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

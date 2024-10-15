@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2g2Kz0d6gudujLHSvveDXbW0ZyANi1mw0BfaxXTC6Iik0SpNab5frG52BEGm3EdxsPhltJECCY1W4Y4bQZakdQ==",
+  "dgSpecHash": "gHGBngFETeewaHRwkAS4rqRtLj8pjs24O8Kb/qac6HeU0Cd92VXjiUpdIKOTOHL8KAZYVgmVQIwYJRZwScf8oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\sistema.csproj",
+  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\QuartoSemestre-Senai\\TreinoSaep\\Catarina Sayuri Arashiro Braga Felipe\\sistema\\sistema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\40666090823\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\40666090823\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
