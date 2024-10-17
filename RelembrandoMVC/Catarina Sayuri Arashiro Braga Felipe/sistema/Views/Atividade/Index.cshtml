@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Atividades";
+}
+
+@if(ViewBag.NomeProfessor == null)
+{
+    <a asp-controller="Login">Login</a>
+}
+else
+{
+
+    @*cabecalho*@
+
+
+    @*cadastrar turma*@
+    <form asp-controller="Atividade" asp-action="CadastrarAtividade">
+        <input type="hidden" name="turmaId" value="@ViewBag.TurmaId" />
+
+        <input type="text" required name="descricao" placeholder="Descricao da Atividade" />
+        <button type="submit">Cadastrar atividade</button>
+    </form>
+
+    <h4>Turma: @ViewBag.NomeTurma</h4>
+
+
+    @*tabela*@
+    <table>
+        <thead>
+            <tr>
+                <th>Número</th>
+                <th>Nome da Atividade</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var atividade in Model)
+            {
+                <tr>
+                    <td>@atividade.AtividadeId</td>
+                    <td>@atividade.Descricao</td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
